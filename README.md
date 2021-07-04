@@ -3,7 +3,7 @@
 
 > Card-style Hugo theme designed for bloggers.
 
-## Demo
+## Demoooo
 
 [Example Site](https://theme-stack.jimmycai.com/)
 
